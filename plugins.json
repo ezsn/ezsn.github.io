@@ -1,0 +1,83 @@
+[
+    {
+        "iconUrl": "https://id2.idlixvip.asia/wp-content/uploads/2020/07/logov4.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 26798,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "idlix",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/idlix.cs3",
+        "name": "idlix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 18198,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "kuramanime",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/kuramanime.cs3",
+        "name": "kuramanime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 21005,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "lk21",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/lk21.cs3",
+        "name": "lk21"
+    },
+    {
+        "iconUrl": "https://samehadaku.care/wp-content/uploads/2023/07/cropped-cropped-download-1.jpeg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 17034,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "samehadaku",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/samehadaku.cs3",
+        "name": "samehadaku"
+    }
+]
