@@ -10,7 +10,7 @@ Ekstensi untuk Cloudstream
 
 #### Kode Pendek
 ```
-  ezcex-repo
+  ezcex
 ```
   
 #### Url Arsip
