@@ -1,0 +1,200 @@
+[
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 37195,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "anime-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-1.cs3",
+        "name": "anime-1"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 22844,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "anime-2",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-2.cs3",
+        "name": "anime-2"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 18244,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "anime-3",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-3.cs3",
+        "name": "anime-3"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 36212,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "anime-4",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-4.cs3",
+        "name": "anime-4"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 21971,
+        "status": 0,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "donghua-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/donghua-1.cs3",
+        "name": "donghua-1"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 27635,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "drama-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/drama-1.cs3",
+        "name": "drama-1"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 27842,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "film-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/film-1.cs3",
+        "name": "film-1"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 24569,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "film-2",
+        "description": "jika error coba pakai DNS Cloudflare",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/film-2.cs3",
+        "name": "film-2"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 21769,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "hentai-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/hentai-1.cs3",
+        "name": "hentai-1"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 17411,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "hohep-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/hohep-1.cs3",
+        "name": "hohep-1"
+    }
+]
