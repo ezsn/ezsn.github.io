@@ -1,0 +1,9 @@
+{
+    "name": "ezcex",
+    "description": "another indonesian cloudstream extension",
+    "manifestVersion": 1,
+    "iconUrl": "https://avatars.githubusercontent.com/u/216258198?v=4",
+    "pluginLists": [
+      "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/plugins.json"
+    ]
+}
