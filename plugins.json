@@ -1,0 +1,229 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-62d35bbf2265bbe56b41c70c01ceb67be243fb3bcddedfc8603b29e592d34eac",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 46710,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "anime-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-1.cs3",
+        "name": "anime-1"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-03c3b3f4cf083068fb7dae8315feeef5701ac3565a661d532b0e6c251f6d575b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 26843,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "anime-2",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-2.cs3",
+        "name": "anime-2"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-10c84c137cd9aa393b8fcec5913351ee57f6db02523ed05acb6b95ed4c2443e7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 43792,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "anime-3",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-3.cs3",
+        "name": "anime-3"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-c64007037f02042f96dee0b86ba9e604e3e9f4b9effaab47a7843cd6db6ad344",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 24774,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "anime-lite",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/anime-lite.cs3",
+        "name": "anime-lite"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-7bd3fda701a35b3e53f332ea2f7bfc637a3058fb900df70f4caf5cf4308415de",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 24503,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "donghua-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/donghua-1.cs3",
+        "name": "donghua-1"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-142f7606da24df033beb0f933ad193e0c45552b29b59b2a73bb8fd18de495003",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 33150,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "drama-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/drama-1.cs3",
+        "name": "drama-1"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-d1160dc12d647539359bc56fc62032aab5d8e8bf4e3cb8f94427830458f2101d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 45867,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "film-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/film-1.cs3",
+        "name": "film-1"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-4ad0c392325cd7fb7d063e688a45995a3a880c72834658c4a12b2426acbf6ff5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 32362,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "film-2",
+        "description": "jika error coba pakai DNS Cloudflare",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/film-2.cs3",
+        "name": "film-2"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-7f1f35c4a127525bf113a0251d940655d10f20829ad5aef753db73fb7bd52744",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 15347,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "hentai-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/hentai-1.cs3",
+        "name": "hentai-1"
+    },
+    {
+        "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=200&v=4",
+        "fileHash": "sha256-f3093fe14464a38bfe32d219a14266b9fb4ec2febe51ee7acd5bb6dd49edd9e0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 23985,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "hentai-2",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/hentai-2.cs3",
+        "name": "hentai-2"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/refs/heads/master/app/src/prerelease/ic_launcher-playstore.png",
+        "fileHash": "sha256-bf4a6038035a1a95298b7faf92bdcdda5c609a7d3509240cdf3b1fe5d6dc58d2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ezsn/ezsn.github.io",
+        "fileSize": 18934,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ezcex"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "hohep-1",
+        "url": "https://raw.githubusercontent.com/ezsn/ezsn.github.io/refs/heads/main/hohep-1.cs3",
+        "name": "hohep-1"
+    }
+]
